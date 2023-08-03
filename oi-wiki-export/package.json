@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@octokit/core": "^5.0.0",
     "escape-latex": "^1.2.0",
     "js-yaml": "^3.14.0",
     "rehype-stringify": "^8.0.0",
